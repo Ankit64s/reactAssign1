@@ -1,0 +1,11 @@
+.FooterClass{
+    margin-left: 25px;
+    width: 94%;
+    height: 60px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(123, 123, 123);
+    color: rgb(53, 53, 53);
+    margin-bottom: 10px;
+}
